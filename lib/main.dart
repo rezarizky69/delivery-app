@@ -5,6 +5,7 @@ import 'package:get/get.dart';
 import 'app/routes/app_pages.dart';
 
 void main() {
+  // test comment
   runApp(
     GetMaterialApp(
       title: "Ongkos Kirim Indonesia",
